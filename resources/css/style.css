@@ -27,3 +27,9 @@ body {
 .image {
     justify-content: center;
 }
+.header-end {
+    font-weight: normal;
+    font-size: 50px;
+    color: white; 
+    text-align: center;  
+}
