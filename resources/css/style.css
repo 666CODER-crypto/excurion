@@ -24,3 +24,6 @@ body {
     font-size: 21px;
     color: gray;
 }
+.image {
+    justify-content: center;
+}
